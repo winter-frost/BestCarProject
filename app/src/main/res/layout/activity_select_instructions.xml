@@ -89,7 +89,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:srcCompat="@mipmap/right_arrow" />
 
-    <TextView
+    <ListView
         android:id="@+id/txtArea"
         android:layout_width="348dp"
         android:layout_height="276dp"
